@@ -11,7 +11,7 @@ Personal Github Profile Readme
 -  Interested in Python development
 -  Exploring C++ and web technologies
 -  Building projects and learning new things
--  Fun fact: I debug my code more than I write it 
+-  I debug my code more than I write it 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
