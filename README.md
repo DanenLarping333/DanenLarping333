@@ -4,6 +4,10 @@ Personal Github Profile Readme
 <h1 align="center"> Hey, I'm Danendra! </h1>
 
 <p align="center">
+  <img src="rukia.jpg" width="100%" alt="Rukia Kuchiki" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;C%2B%2B+Enthusiast;Gamer+%26+Code+Explorer;Welcome+to+my+GitHub!" />
 </p>
 
