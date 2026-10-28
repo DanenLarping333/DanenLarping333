@@ -25,6 +25,7 @@ Personal Github Profile Readme
 ![](https://github-readme-stats.shion.dev/api?username=DanenLarping333&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=DanenLarping333&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DanenLarping333&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://raw.githubusercontent.com/DanenLarping333/DanenLarping333/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
 
 ---
 [![](https://komarev.com/ghpvc/?username=DanenLarping333&icon=0&color=0)](https://visitcount.itsvg.in)
